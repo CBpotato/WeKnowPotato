@@ -1,0 +1,15 @@
+
+h1, h2, ol, p {
+    font-family:cursive;
+    color :aliceblue;
+    
+}
+
+.memes{
+    font-family: monospace;
+}
+
+body{
+    
+    margin-bottom: 25px;
+}
